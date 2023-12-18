@@ -1,4 +1,5 @@
 UENR Web-Based Athlete Management System
+
 Introduction
 Welcome to the GitHub repository for the Web-Based Athlete Management System at the University of Energy and Natural Resources (UENR), Sunyani, Ghana. This project is an innovative solution designed to digitally manage and promote athletes within the university, transitioning from traditional paper-based methods to a comprehensive, web-based platform.
 
